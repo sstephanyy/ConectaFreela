@@ -1,0 +1,6 @@
+@ConectaFreelaAPI_HostAddress = http://localhost:5139
+
+GET {{ConectaFreelaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
